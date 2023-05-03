@@ -1,3 +1,7 @@
 # Projeto-Programacao-para-a-Web
 
-Ainda estou a decidir o tema...
+Estou a decidir o tema do projeto dentre estas opções:
+. COVID-19
+. MyAnimeList
+. Apex Legends
+. Meme Generator
