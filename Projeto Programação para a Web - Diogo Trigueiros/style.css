@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: darkred;
+    width: 100%;
+    height: 60px;
+  }
+  
+  ul {
+    list-style: none;
+    overflow: hidden;
+    height: 100%;
+  }
+  
+  li {
+   float: right;
+  }
+  
+  li a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 21px 21px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  /*.active {
+    background-color: #4CAF50;
+  }*/
+  
+  .toggle-menu {
+    display: none;
+  }
+  
+  @media screen and (max-width: 600px) {
+    ul {
+      display: none;
+      height: auto;
+    }
+  
+    li {
+      float: none;
+    }
+  
+    .toggle-menu {
+      display: block;
+      color: #fff;
+      font-size: 28px;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+  
+    .menu {
+      overflow: hidden;
+      background-color: darkred;
+    }
+  
+    .menu.active {
+      display: block;
+    }
+  
+    .menu a {
+      display: block;
+      color: #fff;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+  
+    .menu a:hover:not(.active) {
+      background-color: #111;
+    }
+}
+
+.logo img {
+    height: 50px;
+    filter: brightness(0) invert(1);
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+/* Vídeo */
+
+.apex {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  }
+
+  /* Vídeo Texto */
+
+.content {
+    text-align: center;
+}
+
+.content h1 {
+    margin-top: 140px;
+    font-size: 120px;
+    color: #fff;
+    font-weight: 600;
+    transition: 0.5s;
+}
+
+.content a {
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    font-size: 24px;
+    border: 2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+}
+
+.content h1:hover {
+   -webkit-text-stroke: 2px #fff; 
+   color: transparent;
+}
+
+  
