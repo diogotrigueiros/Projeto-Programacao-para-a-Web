@@ -1,0 +1,3 @@
+9 e 10 de maio: Main Page e Slideshow.
+16 e 17 de maio: Slideshow e busca da Estrutura de Dados da API Apex Legends. 
+18 de maio: Inicio do desenvolvimento do Login Form e do Help Center.
