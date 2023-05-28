@@ -1,0 +1,8 @@
+9 e 10 de maio: Main Page e Slideshow.
+16 e 17 de maio: Slideshow e busca da Estrutura de Dados da API Apex Legends. 
+18 de maio: Inicio do desenvolvimento do Login Form e do Help Center.
+25 de maio: Melhoramento e acabamento do slideshow, inicio do range slider, melhoramento da página principal e melhoramentos no help center.
+25 de maio 2ª parte: Avancei com o range slider, adicionei o create account no loggin form, decidi fazer o site todo em ingles de vez ao traduzir as informações da tabela do help center em ingles, adiconei uma seta a cada pergunta da tabela do help center.
+26 de maio: Acabei o range slider, alterei o texto dos botões da página legends.
+26 de maio 2ª parte: melhoramentos no slideshow
+28 de maio: Inicio do desenvolvimento da página profile
